@@ -1,3 +1,4 @@
 contoh dirubah
 nama: via
 umur: 12
+alamat:
